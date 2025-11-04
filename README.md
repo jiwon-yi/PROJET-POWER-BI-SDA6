@@ -18,7 +18,7 @@ PROJET-POWER-BI-SDA6/
 ├── 04_analysis/          # Analyses exploratoires
 ├── 05_visualization/     # Power BI
 ├── 06_documentation/     # Documentation
-└── 07_tests/            # Tests
+└── 07_tests/             # Tests
 ```
 
 ### 🚀 Quick Start
@@ -90,8 +90,8 @@ python setup_complete_project.py
 
 ### 🎓 Contexte Académique
 - **Université** : Paris 1 Panthéon-Sorbonne
-- **Formation** : Master Data Analytics
-- **Module** : Business Intelligence
+- **Formation** : Data Analytics
+- **Module** : POWER BI
 - **Année** : 2024-2025
 
 ### 📧 Contact
