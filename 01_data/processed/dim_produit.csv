@@ -1,0 +1,101 @@
+Reference_Produit,Nom,Reference_Categorie,Prix,Categorie,Description,id_produit,gamme_prix
+23MAGJD9,Téléphone,HGKFLAO4,1030,Électronique,Électronique,1,Luxe
+FTX48SNW,Ordinateur,HGKFLAO4,178,Électronique,Électronique,2,Standard
+A4A4AEW6,Télévision,HGKFLAO4,269,Électronique,Électronique,3,Standard
+X3FNDA2D,Tablette,HGKFLAO4,1104,Électronique,Électronique,4,Luxe
+Q1K0RDPN,Casque,HGKFLAO4,1169,Électronique,Électronique,5,Luxe
+ITUZ1I1U,Caméra,HGKFLAO4,448,Électronique,Électronique,6,Standard
+KBDU29Z5,Imprimante,HGKFLAO4,994,Électronique,Électronique,7,Premium
+8PWV1V4U,Routeur,HGKFLAO4,1289,Électronique,Électronique,8,Luxe
+4559YWJ2,Clé USB,HGKFLAO4,1380,Électronique,Électronique,9,Luxe
+A1RPC7D6,Moniteur,HGKFLAO4,239,Électronique,Électronique,10,Standard
+M9OZGE36,Café,X4DVDP1R,60,Alimentaire,Alimentaire,11,Économique
+3JESS2RQ,Thé,X4DVDP1R,1920,Alimentaire,Alimentaire,12,Luxe
+U75V4RGE,Chocolat,X4DVDP1R,1234,Alimentaire,Alimentaire,13,Luxe
+UTR2K7LI,Biscuits,X4DVDP1R,951,Alimentaire,Alimentaire,14,Premium
+1TO8DT10,Céréales,X4DVDP1R,1737,Alimentaire,Alimentaire,15,Luxe
+DUEI2PIJ,Pâtes,X4DVDP1R,177,Alimentaire,Alimentaire,16,Standard
+TUU9HQ6Q,Riz,X4DVDP1R,530,Alimentaire,Alimentaire,17,Premium
+OH8E1XJZ,Jus,X4DVDP1R,60,Alimentaire,Alimentaire,18,Économique
+8MWS9F0P,Eau,X4DVDP1R,1004,Alimentaire,Alimentaire,19,Luxe
+XORPEF69,Confiture,X4DVDP1R,1414,Alimentaire,Alimentaire,20,Luxe
+95KNZG8Q,Cahier,FCY1Z3AD,1028,Papeterie,Papeterie,21,Luxe
+J64TA6WE,Stylo,FCY1Z3AD,44,Papeterie,Papeterie,22,Économique
+YK7FXJAX,Crayon,FCY1Z3AD,1900,Papeterie,Papeterie,23,Luxe
+7EEXZCTL,Gomme,FCY1Z3AD,1792,Papeterie,Papeterie,24,Luxe
+HGY2FBWC,Règle,FCY1Z3AD,1547,Papeterie,Papeterie,25,Luxe
+BTEOWKXG,Feutre,FCY1Z3AD,1484,Papeterie,Papeterie,26,Luxe
+XGEBZOD3,Marqueur,FCY1Z3AD,703,Papeterie,Papeterie,27,Premium
+LC6V1S6Z,Agrafeuse,FCY1Z3AD,348,Papeterie,Papeterie,28,Standard
+RX4XHGI9,Classeur,FCY1Z3AD,267,Papeterie,Papeterie,29,Standard
+1GWSIYJ4,Trombone,FCY1Z3AD,242,Papeterie,Papeterie,30,Standard
+R4XH25O7,Chaise,BHPBGMP8,1704,Mobilier,Mobilier,31,Luxe
+XE3D1521,Table,BHPBGMP8,202,Mobilier,Mobilier,32,Standard
+3H8TUYIQ,Canapé,BHPBGMP8,2000,Mobilier,Mobilier,33,Luxe
+TMN8A5BC,Lit,BHPBGMP8,922,Mobilier,Mobilier,34,Premium
+QSGOF1NR,Armoire,BHPBGMP8,998,Mobilier,Mobilier,35,Premium
+WL4SA1WV,Bureau,BHPBGMP8,1628,Mobilier,Mobilier,36,Luxe
+7RHT9WDR,Bibliothèque,BHPBGMP8,139,Mobilier,Mobilier,37,Standard
+Z2LJMD3F,Tabouret,BHPBGMP8,456,Mobilier,Mobilier,38,Standard
+K0A8IDQK,Commode,BHPBGMP8,944,Mobilier,Mobilier,39,Premium
+FZOAUR6D,Meuble TV,BHPBGMP8,652,Mobilier,Mobilier,40,Premium
+OXM2O3WT,T-shirt,2ATURREX,982,Vêtements,Vêtements,41,Premium
+BAEHGJPU,Jean,2ATURREX,349,Vêtements,Vêtements,42,Standard
+SODO5Y83,Veste,2ATURREX,1432,Vêtements,Vêtements,43,Luxe
+FRM9CKO2,Sweat,2ATURREX,1043,Vêtements,Vêtements,44,Luxe
+UUTE2LOB,Chaussures,2ATURREX,341,Vêtements,Vêtements,45,Standard
+FMYOBSIQ,Robe,2ATURREX,1326,Vêtements,Vêtements,46,Luxe
+SOWOH40S,Pantalon,2ATURREX,664,Vêtements,Vêtements,47,Premium
+3C0AJOAY,Jupe,2ATURREX,50,Vêtements,Vêtements,48,Économique
+84I9OEFY,Manteau,2ATURREX,1882,Vêtements,Vêtements,49,Luxe
+Q4DIHPJV,Chapeau,2ATURREX,1437,Vêtements,Vêtements,50,Luxe
+N5LV7W5S,Poupée,VYOSD42Y,1757,Jouets,Jouets,51,Luxe
+7O2LARCO,Lego,VYOSD42Y,1587,Jouets,Jouets,52,Luxe
+RV694FWE,Puzzle,VYOSD42Y,1441,Jouets,Jouets,53,Luxe
+P5GU8M9T,Voiture,VYOSD42Y,700,Jouets,Jouets,54,Premium
+LY7E0L37,Jeu de société,VYOSD42Y,177,Jouets,Jouets,55,Standard
+W3S1OQUA,Balle,VYOSD42Y,232,Jouets,Jouets,56,Standard
+8YI2MA3P,Cube,VYOSD42Y,42,Jouets,Jouets,57,Économique
+AQQNTF3F,Jeu de construction,VYOSD42Y,65,Jouets,Jouets,58,Économique
+61X3PED3,Peluche,VYOSD42Y,1184,Jouets,Jouets,59,Luxe
+P92LE74F,Déguisement,VYOSD42Y,1852,Jouets,Jouets,60,Luxe
+1Q73T12C,Ballon,WB3615LA,1471,Sport,Sport,61,Luxe
+VE83H8IM,Raquette,WB3615LA,844,Sport,Sport,62,Premium
+L1FS467F,Vélo,WB3615LA,1244,Sport,Sport,63,Luxe
+A5I0K1K3,Tapis de yoga,WB3615LA,652,Sport,Sport,64,Premium
+25JLQLY7,Haltère,WB3615LA,111,Sport,Sport,65,Standard
+SLYE6HHU,Maillot,WB3615LA,710,Sport,Sport,66,Premium
+FJOX0HCE,Baskets,WB3615LA,565,Sport,Sport,67,Premium
+KC1ZSXVJ,Gants,WB3615LA,1267,Sport,Sport,68,Luxe
+C7V4SHD8,Sac de sport,WB3615LA,697,Sport,Sport,69,Premium
+LRPKSSRV,Corde à sauter,WB3615LA,209,Sport,Sport,70,Standard
+W1N5JI2N,Shampooing,5U2QY0OE,1517,Beauté,Beauté,71,Luxe
+D3B17ZSN,Crème,5U2QY0OE,690,Beauté,Beauté,72,Premium
+JNMIDJK5,Parfum,5U2QY0OE,1069,Beauté,Beauté,73,Luxe
+ULPCQDRS,Maquillage,5U2QY0OE,350,Beauté,Beauté,74,Standard
+ZKBEBE26,Brosse,5U2QY0OE,1182,Beauté,Beauté,75,Luxe
+Y2F1W292,Lotion,5U2QY0OE,1066,Beauté,Beauté,76,Luxe
+10YLMZCY,Gel douche,5U2QY0OE,212,Beauté,Beauté,77,Standard
+IPWQMI6P,Déodorant,5U2QY0OE,116,Beauté,Beauté,78,Standard
+230JLMUD,Masque,5U2QY0OE,856,Beauté,Beauté,79,Premium
+1LEXYMOL,Huile essentielle,5U2QY0OE,1551,Beauté,Beauté,80,Luxe
+KM1IRIL1,Vitamines,6CFXB8S3,818,Santé,Santé,81,Premium
+X4VVEZEA,Médicaments,6CFXB8S3,1757,Santé,Santé,82,Luxe
+PRSHKGFT,Bandages,6CFXB8S3,335,Santé,Santé,83,Standard
+Q8KWKNGV,Thermomètre,6CFXB8S3,699,Santé,Santé,84,Premium
+5X4YX1CL,Tensiomètre,6CFXB8S3,1602,Santé,Santé,85,Luxe
+ONY202JE,Masque chirurgical,6CFXB8S3,27,Santé,Santé,86,Économique
+FLZ4N0W0,Gel désinfectant,6CFXB8S3,127,Santé,Santé,87,Standard
+OZM8ZZ8M,Gants,6CFXB8S3,550,Santé,Santé,88,Premium
+4XCDMPUB,Lunettes,6CFXB8S3,550,Santé,Santé,89,Premium
+Z5D1FTSH,Béquilles,6CFXB8S3,779,Santé,Santé,90,Premium
+ZMZV43PY,Pneu,I9IXI9VN,1942,Automobile,Automobile,91,Luxe
+W9S1PNY2,Batterie,I9IXI9VN,651,Automobile,Automobile,92,Premium
+5G3VLXI9,Huile moteur,I9IXI9VN,396,Automobile,Automobile,93,Standard
+PFH0KAG5,Balais d'essuie-glace,I9IXI9VN,327,Automobile,Automobile,94,Standard
+IUN5F5QH,Filtre à air,I9IXI9VN,1926,Automobile,Automobile,95,Luxe
+RUMZBGRT,Chargeur de batterie,I9IXI9VN,681,Automobile,Automobile,96,Premium
+C9HNU1HV,Ampoule,I9IXI9VN,646,Automobile,Automobile,97,Premium
+X853AARC,Tapis de sol,I9IXI9VN,1259,Automobile,Automobile,98,Luxe
+LSXPPBAM,Autoradio,I9IXI9VN,722,Automobile,Automobile,99,Premium
+PKJ1SYYW,Kit de secours,I9IXI9VN,141,Automobile,Automobile,100,Standard

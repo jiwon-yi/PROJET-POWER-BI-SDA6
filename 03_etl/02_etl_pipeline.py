@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""ETL Pipeline - Construction du Data Warehouse"""
+"""ETL Pipeline CORRIGÉ pour les vrais noms de colonnes"""
 
 import pandas as pd
 import numpy as np
@@ -113,30 +113,33 @@ class DataWarehouseETL:
         })
         logger.info(f"  ✅ {len(dim_categorie)} catégories transformées")
         
-        # FACT_VENTES
+        # FACT_VENTES - ATTENTION AUX ESPACES DANS LES NOMS
         logger.info("💼 Création de FACT_VENTES...")
         ventes = self.dataframes['ventes'].copy()
         ventes['Date_vente'] = pd.to_datetime(ventes['Date_vente'])
         
+        # Mapper les clés
         date_to_id = dict(zip(dim_temps['date_complete'], dim_temps['id_temps']))
         ventes['id_temps'] = ventes['Date_vente'].map(date_to_id)
         
+        # ATTENTION: "Reference Produit" avec ESPACE
         prod_to_id = dict(zip(dim_produit['Reference_Produit'], dim_produit['id_produit']))
-        ventes['id_produit'] = ventes['Reference_Produit'].map(prod_to_id)
+        ventes['id_produit'] = ventes['Reference Produit'].map(prod_to_id)  # ESPACE !
         
         ens_to_id = dict(zip(dim_enseigne['Enseigne'], dim_enseigne['id_enseigne']))
         ventes['id_enseigne'] = ventes['Enseigne'].map(ens_to_id)
         
+        # ATTENTION: "Prix Total" avec ESPACE
         fact_ventes = pd.DataFrame({
             'id_vente': ventes['IDVente'],
             'id_temps': ventes['id_temps'],
             'id_produit': ventes['id_produit'],
             'id_enseigne': ventes['id_enseigne'],
             'quantite': ventes['Quantite'],
-            'prix_unitaire': ventes['Prix_Total'] / ventes['Quantite'],
-            'prix_total': ventes['Prix_Total'],
-            'cout_estime': ventes['Prix_Total'] * 0.7,
-            'marge_brute': ventes['Prix_Total'] * 0.3
+            'prix_unitaire': ventes['Prix Total'] / ventes['Quantite'],  # ESPACE !
+            'prix_total': ventes['Prix Total'],  # ESPACE !
+            'cout_estime': ventes['Prix Total'] * 0.7,
+            'marge_brute': ventes['Prix Total'] * 0.3
         })
         logger.info(f"  ✅ {len(fact_ventes)} transactions transformées")
         
@@ -179,6 +182,12 @@ class DataWarehouseETL:
         
         logger.info(f"✅ Tables exportées dans {csv_path}")
         logger.info(f"\n✅ Data Warehouse créé: {db_path}")
+        
+        # Afficher les statistiques
+        logger.info("\n📊 STATISTIQUES FINALES:")
+        logger.info(f"  - Transactions: {len(fact_ventes)}")
+        logger.info(f"  - CA Total: {fact_ventes['prix_total'].sum():,.2f} €")
+        logger.info(f"  - Panier Moyen: {fact_ventes['prix_total'].mean():.2f} €")
     
     def run_etl(self):
         logger.info("🚀 DÉMARRAGE DU PIPELINE ETL")
