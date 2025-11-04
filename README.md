@@ -28,28 +28,3 @@ Jiwon Yi
 ### 📧 Contact
 Cours supervisé par : Ibrahim Tahirou
 ```
-
-### **.gitignore 추천:**
-```
-# Données
-*.csv
-*.xlsx
-data/raw/*
-
-# Power BI
-*.pbix.bak
-*.pbit
-
-# Python
-__pycache__/
-*.pyc
-venv/
-.env
-
-# Logs
-*.log
-logs/
-
-# Credentials
-config/credentials.json
-.env.local
