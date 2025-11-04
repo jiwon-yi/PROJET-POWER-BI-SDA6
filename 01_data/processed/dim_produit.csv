@@ -1,0 +1,51 @@
+Reference_Produit,Nom,Reference_Categorie,Prix,Categorie,Description,id_produit,gamme_prix
+23MAGJD9,Téléphone,HGKFLAO4,1030,Électronique,Électronique,1,Luxe
+FTX48SNW,Ordinateur,HGKFLAO4,178,Électronique,Électronique,2,Standard
+A4A4AEW6,Télévision,HGKFLAO4,269,Électronique,Électronique,3,Standard
+X3FNDA2D,Tablette,HGKFLAO4,1104,Électronique,Électronique,4,Luxe
+Q1K0RDPN,Casque,HGKFLAO4,1169,Électronique,Électronique,5,Luxe
+M9OZGE36,Café,X4DVDP1R,60,Alimentaire,Alimentaire,6,Économique
+3JESS2RQ,Thé,X4DVDP1R,1920,Alimentaire,Alimentaire,7,Luxe
+U75V4RGE,Chocolat,X4DVDP1R,1234,Alimentaire,Alimentaire,8,Luxe
+UTR2K7LI,Biscuits,X4DVDP1R,951,Alimentaire,Alimentaire,9,Premium
+1TO8DT10,Céréales,X4DVDP1R,1737,Alimentaire,Alimentaire,10,Luxe
+95KNZG8Q,Cahier,FCY1Z3AD,1028,Papeterie,Papeterie,11,Luxe
+J64TA6WE,Stylo,FCY1Z3AD,44,Papeterie,Papeterie,12,Économique
+YK7FXJAX,Crayon,FCY1Z3AD,1900,Papeterie,Papeterie,13,Luxe
+7EEXZCTL,Gomme,FCY1Z3AD,1792,Papeterie,Papeterie,14,Luxe
+HGY2FBWC,Règle,FCY1Z3AD,1547,Papeterie,Papeterie,15,Luxe
+R4XH25O7,Chaise,BHPBGMP8,1704,Mobilier,Mobilier,16,Luxe
+XE3D1521,Table,BHPBGMP8,202,Mobilier,Mobilier,17,Standard
+3H8TUYIQ,Canapé,BHPBGMP8,2000,Mobilier,Mobilier,18,Luxe
+TMN8A5BC,Lit,BHPBGMP8,922,Mobilier,Mobilier,19,Premium
+QSGOF1NR,Armoire,BHPBGMP8,998,Mobilier,Mobilier,20,Premium
+OXM2O3WT,T-shirt,2ATURREX,982,Vêtements,Vêtements,21,Premium
+BAEHGJPU,Jean,2ATURREX,349,Vêtements,Vêtements,22,Standard
+SODO5Y83,Veste,2ATURREX,1432,Vêtements,Vêtements,23,Luxe
+FRM9CKO2,Sweat,2ATURREX,1043,Vêtements,Vêtements,24,Luxe
+UUTE2LOB,Chaussures,2ATURREX,341,Vêtements,Vêtements,25,Standard
+N5LV7W5S,Poupée,VYOSD42Y,1757,Jouets,Jouets,26,Luxe
+7O2LARCO,Lego,VYOSD42Y,1587,Jouets,Jouets,27,Luxe
+RV694FWE,Puzzle,VYOSD42Y,1441,Jouets,Jouets,28,Luxe
+P5GU8M9T,Voiture,VYOSD42Y,700,Jouets,Jouets,29,Premium
+LY7E0L37,Jeu de société,VYOSD42Y,177,Jouets,Jouets,30,Standard
+1Q73T12C,Ballon,WB3615LA,1471,Sport,Sport,31,Luxe
+VE83H8IM,Raquette,WB3615LA,844,Sport,Sport,32,Premium
+L1FS467F,Vélo,WB3615LA,1244,Sport,Sport,33,Luxe
+A5I0K1K3,Tapis de yoga,WB3615LA,652,Sport,Sport,34,Premium
+25JLQLY7,Haltère,WB3615LA,111,Sport,Sport,35,Standard
+W1N5JI2N,Shampooing,5U2QY0OE,1517,Beauté,Beauté,36,Luxe
+D3B17ZSN,Crème,5U2QY0OE,690,Beauté,Beauté,37,Premium
+JNMIDJK5,Parfum,5U2QY0OE,1069,Beauté,Beauté,38,Luxe
+ULPCQDRS,Maquillage,5U2QY0OE,350,Beauté,Beauté,39,Standard
+ZKBEBE26,Brosse,5U2QY0OE,1182,Beauté,Beauté,40,Luxe
+KM1IRIL1,Vitamines,6CFXB8S3,818,Santé,Santé,41,Premium
+X4VVEZEA,Médicaments,6CFXB8S3,1757,Santé,Santé,42,Luxe
+PRSHKGFT,Bandages,6CFXB8S3,335,Santé,Santé,43,Standard
+Q8KWKNGV,Thermomètre,6CFXB8S3,699,Santé,Santé,44,Premium
+5X4YX1CL,Tensiomètre,6CFXB8S3,1602,Santé,Santé,45,Luxe
+ZMZV43PY,Pneu,I9IXI9VN,1942,Automobile,Automobile,46,Luxe
+W9S1PNY2,Batterie,I9IXI9VN,651,Automobile,Automobile,47,Premium
+5G3VLXI9,Huile moteur,I9IXI9VN,396,Automobile,Automobile,48,Standard
+PFH0KAG5,Balais essuie-glace,I9IXI9VN,327,Automobile,Automobile,49,Standard
+IUN5F5QH,Filtre à air,I9IXI9VN,1926,Automobile,Automobile,50,Luxe
