@@ -1,30 +1,54 @@
-# PROJET POWER BI - SDA7 2025
-## Panthéon-Sorbonne Data Analytics
+﻿# 📊 PROJET POWER BI - SDA6 2025
+## Business Intelligence - Panthéon-Sorbonne Data Analytics
 
-### 📊 Description du Projet
-Développement d'un système décisionnel complet pour l'analyse des données de vente d'une chaîne de distribution avec 5 enseignes (Alpha, Beta, Gamma, Delta, Epsilon).
+### 🎯 Description
+Système décisionnel complet pour l'analyse des ventes d'une chaîne de distribution (5 enseignes, 200 transactions)
 
-### 🎯 Objectifs
-- Création d'un Data Warehouse optimisé
-- Implémentation d'un modèle en étoile/flocon
-- Développement de tableaux de bord interactifs Power BI
-- Analyse des performances commerciales multi-enseignes
+### 📁 Structure du Projet
+\\\
+PROJET-POWER-BI-SDA6/
+├── 01_data/
+│   ├── raw/              # Données sources (4 CSV)
+│   ├── processed/        # Tables transformées (5 CSV)
+│   └── warehouse/        # Base SQLite
+├── 02_database/          # Scripts SQL
+│   ├── ddl/             # Création des tables
+│   └── dml/             # Manipulation données
+├── 03_etl/              # Pipeline ETL Python
+├── 04_analysis/         # Analyses exploratoires
+├── 05_visualization/    # Power BI
+├── 06_documentation/    # Documentation
+└── 07_tests/           # Tests
+\\\
 
-### 🛠 Technologies Utilisées
-- **Base de données** : PostgreSQL / SQL Server
-- **ETL** : Python (pandas, SQLAlchemy)
-- **Visualisation** : Power BI
-- **Cloud** : Azure Data Factory
+### 🚀 Quick Start
+\\\ash
+# 1. Cloner le repo
+git clone https://github.com/jiwon-yi/PROJET-POWER-BI-SDA6.git
 
-### 📁 Structure des Données
-- `ventes.csv` : 500 transactions
-- `produits.csv` : 100 produits
-- `categories.csv` : 10 catégories
-- `enseignes.csv` : 5 points de vente
+# 2. Installer les dépendances
+pip install -r requirements.txt
 
-### 👨‍🎓 Équipe
-Jiwon Yi
+# 3. Générer le Data Warehouse
+python setup_complete_project.py
+\\\
+
+### 📊 Métriques Clés
+- **200 transactions** analysées
+- **50 produits** en catalogue
+- **5 enseignes** (Paris, Lyon, Marseille, Toulouse, Nice)
+- **Modèle en étoile** optimisé
+
+### 🛠 Stack Technique
+- ETL: Python (pandas, SQLAlchemy)
+- Database: SQLite
+- Visualization: Power BI
+- Modeling: Star Schema
 
 ### 📧 Contact
-Cours supervisé par : Ibrahim Tahirou
-```
+**Université**: Paris 1 Panthéon-Sorbonne  
+**Formation**: Data Analytics  
+**GitHub**: [jiwon-yi](https://github.com/jiwon-yi)
+
+---
+© 2024 Projet BI SDA6
