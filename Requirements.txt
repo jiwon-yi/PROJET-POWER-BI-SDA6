@@ -1,0 +1,45 @@
+# Core Data Processing
+pandas==2.1.4
+numpy==1.24.3
+openpyxl==3.1.2
+
+# Database
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.23
+pymssql==2.2.10
+
+# ETL & Data Quality
+great-expectations==0.18.7
+pandera==0.17.2
+
+# Visualization & Reporting
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.17.0
+
+# Scheduling & Orchestration
+apache-airflow==2.7.3
+schedule==1.2.0
+
+# Utilities
+python-dotenv==1.0.0
+pyyaml==6.0.1
+click==8.1.7
+rich==13.7.0
+
+# Data Profiling
+ydata-profiling==4.6.1
+sweetviz==2.3.1
+
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+
+# Logging
+loguru==0.7.2
+
+# Development
+jupyter==1.0.0
+ipython==8.17.2
+black==23.11.0
+flake8==6.1.0
